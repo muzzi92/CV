@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
 
-Full-stack developer and recent graduate of Makers Academy. I have taught myself 4 languages in the past 4 months and I pride myself on writing code that is both clean and readable. During my intensive journey into web development, I had found a deep appreciation for Test Driven Development, Object Orientated Programming and XP values.
+Full-stack developer and recent graduate of Makers Academy. I have taught myself 4 languages in the past 4 months and I pride myself on writing code that is both clean and readable. During my intensive journey into web development, I have found a deep appreciation for Test Driven Development, Object Orientated Programming and XP values.
 
 Prior to Makers Academy I obtained experience in a diverse range of roles in a variety of countries. My experiences span journalism in Italy to managing a startup in Australia.
 
