@@ -1,37 +1,57 @@
 ## Muzzi Amir Aldean
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
+[Skills](#skills)  | [Career](#career) | [Education](#education) | [Projects](#makers-projects) | [Interests](#interests) | [Contact](#contact)
 
-Full-stack developer and recent graduate of Makers Academy. I have taught myself 4 languages in the past 4 months and I pride myself on writing code that is both clean and readable. During my intensive journey into web development, I have found a deep appreciation for Test Driven Development, Object Orientated Programming and XP values.
-
-Prior to Makers Academy I obtained experience in a diverse range of roles in a variety of countries. My experiences span journalism in Italy to managing a startup in Australia.
-
-## Projects
-
-| Project &nbsp; &nbsp; &nbsp; &nbsp;| Description | Tech Stack  | Testing |
-| ------------------- | ------------- | ------------- | ------------- |
-| [Swift Exit](https://github.com/habin-isa/Angelos) | This was my final project. It is a mobile application that has the functionality to send emergency texts, make fake phone calls and put users in touch with support lines, all whilst under disguise as the home screen. I was heavily focussed on the backend i.e. building the models and testing. It took two weeks to complete. | Swift Twilio Alamofire Xcode Core-Libraries | XCT |
-| [Gilded Rose Tech-Test](https://github.com/muzzi92/Gilded_Rose_Tech_Test) | Completed during Tech Test week at Makers. This was a debugging and refactoring challenge, where some legacy code had to be cleaned up, extracted and tested. It took 3 days to finish. | Ruby | Rspec |
-| [Bank   Tech-Test](https://github.com/muzzi92/BankTechTest)  | I completed this challenge during Week 10 Tech Test challenges. It has been built in line with a given spec, and follows both DRY and SRP principles. It took 2 days to complete.  | JavaScript  | Jasmine  |
-| [Acebook](https://github.com/Possed/Acebook-Blunicorn)  | This was a group engineering project in which we had to develop a website with some of the functionality of Facebook. I worked on post and comment features. I encountered the most challenges on this project, but learnt a lot from some mistakes. It took two weeks to complete. | Java Spring Maven Heroku PostgreSQL React Node  | JUnit Cypress  |   
-
+Junior Software Engineer with a keen interest in Test Driven Development and microservices.
 
 
 ## Skills
 
-#### Fast, Independent Learner
+#### Rapid Learner
 
-* 4 languages (and their associated stacks) in 4 months.
+* Built, tested and deployed projects in 5 programming languages during my first 5 months of programming. 
+* Released first ticket into production within 4 days of first role.
 
-Having only stepped foot into programming in February 2018, I like to think that I have come a long way. After teaching myself some basic Python syntax, I moved on to an online, full-stack JavaScript course. On completion, I jumped straight into Makers where I have improved my JavaScript as well as picked up Ruby, Java, Swift and their associated stacks.
 
-#### TDD
+#### Testing
 
-I am a strong advocate of Test Driven Development. Creating tests based on user stories is a fantastic way of ensuring specifications are always satisfied. On top of that, writing robust and mutable code means that I can contribute to solid code bases with high longevity. I have test driven all my applications at Makers, and have even created a [testing framework](https://github.com/ZoeKavanagh/mr_jazz_framework) for JavaScript.
+* Followed TDD practices from my first practice project to my first job role. Experience writing unit, interface and integration tests to achieve 100% coverage. At Makers I even created a [testing framework](https://github.com/ZoeKavanagh/mr_jazz_framework) for JavaScript.
 
-#### Communication
+#### Agile Practices
 
-Aside from studying communications at university, I have practiced it extensively both inside and outside of work. Working in sales required a way with words and an ability to connect with people, whilst travelling the world alone for 18 months required confidence and the ability to engage with new people on a daily basis.
+* Worked closely with a team using Scrum methodologies, regular stand-ups and retros, and implementing continuous delivery via Circle CI pipelines.
+
+
+## Career
+
+**Vegitable Ltd** (August 2018 to Present) - Personal Project   
+*Platform Engineer*   
+* Building crawlers and scrapers
+* Product management
+* Architecture design
+* Python microservices, Scrapy, PostgresSQL, BeautifulSoup, Selenium
+
+**Student.com** (August 2018 to December 2018)  
+*Platform Engineer*   
+* Participated in the continuous delivery of clean, reusable code.
+* Product development, operations and testing. 
+* Integrated independent work into agile team delivery. 
+* Python microservices, Pytest, Nameko, Docker, Kubernetes, Behave, CircleCI, GraphQL, TypeScript, MySQL
+
+**Helping Humans** (January 2017 to December 2017)    
+*Regional Business Development Manager*   
+* Introduced products into a greenfield market, securing 90 stockists within the first six months of operation. 
+* Worked independently before hiring and training new staff.
+
+
+**Pets Corner** (September 2015 to May 2016)   
+*Branch Manager*  
+* Given brand new store and staff to manage, in which I increased sales of target goods from 0% to 75% of total sales.
+
+**Mello Drinks** (June 2015 to September 2015)  
+*Intern*   
+* Managed social media channels and created content for this startup drinks company.
+
 
 ## Education
 
@@ -49,38 +69,18 @@ Aside from studying communications at university, I have practiced it extensivel
 - A-Levels: Economics(A), Biology(A), Geography(A)
 
 
-## Experience
+## Makers-Projects
 
-**Helping Humans** (January 2017 to December 2017)    
-*Regional Business Development Manager*   
-I was given the opportunity to bring this Melbourne based startup drinks supplier to the Sydney market. I secured 90 new stockists in the first six months of operation. Initially I was working on my own before hiring and training staff.
+| Project &nbsp; &nbsp; &nbsp; &nbsp;| Description | Tech Stack  | Testing |
+| ------------------- | ------------- | ------------- | ------------- |
+| [Swift Exit](https://github.com/habin-isa/Angelos) | This was my final project. It is a mobile application that has the functionality to send emergency texts, make fake phone calls and put users in touch with support lines, all whilst under disguise as the home screen. I was heavily focussed on the backend i.e. building the models and testing. It took two weeks to complete. | Swift Twilio Alamofire Xcode Core-Libraries | XCT |
+| [Gilded Rose Tech-Test](https://github.com/muzzi92/Gilded_Rose_Tech_Test) | Completed during Tech Test week at Makers. This was a debugging and refactoring challenge, where some legacy code had to be cleaned up, extracted and tested. It took 3 days to finish. | Ruby | Rspec |
+| [Bank   Tech-Test](https://github.com/muzzi92/BankTechTest)  | I completed this challenge during Week 10 Tech Test challenges. It has been built in line with a given spec, and follows both DRY and SRP principles. It took 2 days to complete.  | JavaScript  | Jasmine  |
 
-**Pets Corner** (September 2015 to May 2016)   
-*Branch Manager*  
-I originally took this role as a stepping stone before going travelling. However after 2 weeks on the job they promoted me to manager and gave me a brand new shop.
-During my time at the shop sales of target goods went from 0% to 75% of total sales.
-
-**Mello Drinks** (June 2015 to September 2015)  
-*Intern*   
-Managed social media channels and created content for this startup drinks company.
-
-**StudentsVille Italia** (January 2013 to May 2013)  
-*Intern*   
-Created videos, wrote articles and updated websites for this online student hub in Florence.
-
-**ETA Florence Renewable Energies** (September 2012 to January 2013)  
-*Intern*   
-Wrote articles and helped organise events for this European conference company.
 
 ## Interests
-**Travel**   
-I have travelled to around 30 different countries so far and I am always looking for the opportunity to see somewhere new. Different cultures, exciting adventures and new cuisine are the major pulls for me. Japan is next on my list.
+**- Travel - Rock climbing - Film - Hiking - Video Games -**
 
-**Film**   
-I attend film club meet-ups when I can and enjoy going to fun events such as secret showings and outdoor cinemas.
-
-**Hiking**  
-My favourite treks include the Blue Mountains, Sinharaja and Mount Etna.
 
 ## Contact
 
