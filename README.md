@@ -85,4 +85,3 @@ Junior Software Engineer with a keen interest in Test Driven Development and mic
 ## Contact
 
 * Email: amiraldean@gmail.com
-* Telephone: (+44) 07891721675
